@@ -9,7 +9,7 @@
     <br />
     <br />
     Demo:
-    <a href="https://umairzafar14.github.io/My-Portfolio/">My Portfolio</a>
+    <a href="https://umairzafar14.github.io/My-Portfolio/" target="_blank">My Portfolio</a>
   </p>
 </p>
 
