@@ -528,6 +528,10 @@ footer {
     opacity: 1;
 }
 
+/* #default__color {
+    color: #fff;
+} */
+
 .bg-dark {
     --bs-bg-opacity: 1;
     background-color: rgba(33,37,41,var(--bs-bg-opacity));
