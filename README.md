@@ -6,10 +6,10 @@
   <p align="center">
     It is my personal static website/portfolio hosted with GitHub Pages, built to showcase
     my skills & recent projects.
-    
     <br />
     <br />
-    [Demo](https://umairzafar14.github.io/My-Portfolio/)
+    Demo:
+    <a href="https://umairzafar14.github.io/My-Portfolio/">My Portfolio</a>
   </p>
 </p>
 
