@@ -504,7 +504,7 @@ footer {
 
 .footer__copyright {
     color: #fff;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .footer__logo--popper {
